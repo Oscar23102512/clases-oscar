@@ -39,6 +39,8 @@ public class Main {
         dato = leer.nextInt();
         System.out.println(dato);
 
+        // datos de entrada 2 tipo int, string, 1 decimal, 1 boolean
+
 
     }
 }
