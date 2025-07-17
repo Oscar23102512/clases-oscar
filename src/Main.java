@@ -43,5 +43,6 @@ public class Main {
         // datos de entrada 2 tipo int, string, 1 decimal, 1 boolean
 
         System.out.println("Oscar");
+        System.out.println("Pablo");
     }
 }
